@@ -1,0 +1,2 @@
+# mymindstores
+mymindstores
